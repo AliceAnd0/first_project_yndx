@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a21a90bc-3c61-46d7-95fa-a9b684bf3cf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/feynman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kaufman-triangle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_place_footer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_place_header.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tiktok_color_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/two_again.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vk_color_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/youtube_color_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sprint-1__startkit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/khan/khan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/oakley/oakley.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__heading/table__heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/table/__text/table__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-competence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-interliving.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards-recall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/khan-book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-arzamas.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-n1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-polka.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo/resources-strelka.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +45,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2vZuOpNQoC1Tlxu22nRcW0X67sW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,9 +57,9 @@
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/home/IdeaProjects/project1_yndx/styles&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/home/IdeaProjects/project1_yndx/images&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\home\IdeaProjects\project1_yndx\images" />
       <recent name="C:\Users\home\IdeaProjects\project1_yndx\styles" />
       <recent name="C:\Users\home\IdeaProjects\project1_yndx" />
     </key>
@@ -83,7 +93,10 @@
       <updated>1744364887947</updated>
       <workItem from="1744364889078" duration="16765000" />
       <workItem from="1744472279148" duration="12900000" />
-      <workItem from="1744532987383" duration="6348000" />
+      <workItem from="1744532987383" duration="9749000" />
+      <workItem from="1746275703038" duration="11497000" />
+      <workItem from="1746526368078" duration="7005000" />
+      <workItem from="1747477959658" duration="4666000" />
     </task>
     <servers />
   </component>
